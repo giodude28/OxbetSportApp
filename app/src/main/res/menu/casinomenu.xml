@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fish"
+        android:enabled="true"
+        android:title="Bắn cá"
+        android:icon="@drawable/fish"/>
+
+    <item
+        android:id="@+id/kenos"
+        android:title="Keno"
+        android:enabled="true"
+        android:icon="@drawable/keno"/>
+    <item
+        android:id="@+id/slot"
+        android:title="Nổ hũ"
+        android:enabled="true"
+        android:icon="@drawable/slotsss"/>
+</menu>

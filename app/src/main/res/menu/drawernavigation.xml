@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:orderInCategory="1"
+        android:enabled="true"
+        android:title="Home" />
+    <item
+        android:id="@+id/firstOne"
+        android:orderInCategory="3"
+        android:title="Trực tiếp trận đấu">
+
+        <menu>
+            <item
+                android:id="@+id/basket"
+                android:enabled="true"
+                android:title="Bóng rổ"
+                android:icon="@drawable/basketballhoop"/>
+            <item
+                android:id="@+id/soccer"
+                android:title="Bóng đá"
+                android:enabled="true"
+                android:icon="@drawable/soccerball"/>
+            <item
+                android:id="@+id/tennis"
+                android:title="Quần vợt"
+                android:enabled="true"
+                android:icon="@drawable/tennisracket"/>
+
+        </menu>
+    </item>
+    <item
+        android:id="@+id/secondOne"
+        android:orderInCategory="2"
+        android:title="Trò chơi sòng bạc"/>
+
+
+</menu>

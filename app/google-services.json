@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848658902490",
+    "project_id": "oxbet---ng-cp---bt-vip2021",
+    "storage_bucket": "oxbet---ng-cp---bt-vip2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848658902490:android:73fbbb60c21fd70d3a64e3",
+        "android_client_info": {
+          "package_name": "io.giodude.oxbet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848658902490-6v1pi7cfuv18qju49f1urdhg3c6ko1pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoZlp1EZtgm-rgFZBkUjG6R3awkuZcJjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848658902490-6v1pi7cfuv18qju49f1urdhg3c6ko1pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
